@@ -1,2 +1,0 @@
-# hello-word
-create project
